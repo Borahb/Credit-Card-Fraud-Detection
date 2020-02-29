@@ -18,7 +18,7 @@ After completion of the Deep Learning project, the DL model need to deploy in an
 ![](train2img.png)
 
 ## Implimentation
-Run the python file 
+Run the python file DeteCode.py
 
 # Licence
 This project is licensed under the MIT License - see the LICENSE file for details
