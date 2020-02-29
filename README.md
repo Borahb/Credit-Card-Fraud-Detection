@@ -13,6 +13,7 @@ After completion of the Deep Learning project, the DL model need to deploy in an
 
 ## Results
 
+
 ![](trainimg.png)
 
 
