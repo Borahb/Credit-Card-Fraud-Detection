@@ -15,4 +15,4 @@ After completion of the Deep Learning project, the DL model need to deploy in an
 
 
 # Licence
-This project is licensed under the MIT License - see the LICENSE.txt file for details
+This project is licensed under the MIT License - see the LICENSE file for details
